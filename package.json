@@ -1,0 +1,14 @@
+{
+    "name": "had-nft",
+    "version": "1.0.0",
+    "dependencies": {
+        "@aztec/aztec.js": "^0.76.4",
+        "@aztec/accounts": "^0.76.4",
+        "@aztec/noir-contracts": "^0.76.4",
+        "typescript": "^5.0.0"
+    },
+    "devDependencies": {
+        "ts-node": "^10.9.1",
+        "@types/node": "^20.0.0"
+    }
+} 
